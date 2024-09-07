@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/sakshikasralikar/Morse-code-tone-generator</loc>
+  <lastmod>2024-09-07T17:43:05+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/sakshikasralikar/Morse-code-tone-generator/issues</loc>
+  <lastmod>2024-09-07T17:43:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sakshikasralikar/Morse-code-tone-generator/pulls</loc>
+  <lastmod>2024-09-07T17:43:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sakshikasralikar/Morse-code-tone-generator/actions</loc>
+  <lastmod>2024-09-07T17:43:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sakshikasralikar/Morse-code-tone-generator/security</loc>
+  <lastmod>2024-09-07T17:43:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sakshikasralikar/Morse-code-tone-generator/blob/main/STARTUP.A51</loc>
+  <lastmod>2024-09-07T17:43:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sakshikasralikar/Morse-code-tone-generator/blob/main/google3120eb614791d5e7.html</loc>
+  <lastmod>2024-09-07T17:43:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sakshikasralikar/Morse-code-tone-generator/blob/main/lcd.h</loc>
+  <lastmod>2024-09-07T17:43:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sakshikasralikar/Morse-code-tone-generator/blob/main/main.c</loc>
+  <lastmod>2024-09-07T17:43:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sakshikasralikar/Morse-code-tone-generator/blob/main/morsecode.pdf</loc>
+  <lastmod>2024-09-07T17:43:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sakshikasralikar/Morse-code-tone-generator/blob/main/reg51.h</loc>
+  <lastmod>2024-09-07T17:43:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sakshikasralikar/Morse-code-tone-generator/blob/main/serial.c</loc>
+  <lastmod>2024-09-07T17:43:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sakshikasralikar/Morse-code-tone-generator/releases</loc>
+  <lastmod>2024-09-07T17:43:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/sakshikasralikar/Morse-code-tone-generator/labels</loc>
+  <lastmod>2024-09-07T17:43:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/sakshikasralikar/Morse-code-tone-generator/milestones</loc>
+  <lastmod>2024-09-07T17:43:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/sakshikasralikar/Morse-code-tone-generator/labels?sort=name-asc</loc>
+  <lastmod>2024-09-07T17:43:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sakshikasralikar/Morse-code-tone-generator/labels?sort=name-desc</loc>
+  <lastmod>2024-09-07T17:43:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sakshikasralikar/Morse-code-tone-generator/labels?sort=count-desc</loc>
+  <lastmod>2024-09-07T17:43:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sakshikasralikar/Morse-code-tone-generator/labels?sort=count-asc</loc>
+  <lastmod>2024-09-07T17:43:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sakshikasralikar/Morse-code-tone-generator/labels/bug</loc>
+  <lastmod>2024-09-07T17:43:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sakshikasralikar/Morse-code-tone-generator/labels/documentation</loc>
+  <lastmod>2024-09-07T17:43:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sakshikasralikar/Morse-code-tone-generator/labels/duplicate</loc>
+  <lastmod>2024-09-07T17:43:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sakshikasralikar/Morse-code-tone-generator/labels/enhancement</loc>
+  <lastmod>2024-09-07T17:43:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sakshikasralikar/Morse-code-tone-generator/labels/good%20first%20issue</loc>
+  <lastmod>2024-09-07T17:43:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sakshikasralikar/Morse-code-tone-generator/labels/help%20wanted</loc>
+  <lastmod>2024-09-07T17:43:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sakshikasralikar/Morse-code-tone-generator/labels/invalid</loc>
+  <lastmod>2024-09-07T17:43:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sakshikasralikar/Morse-code-tone-generator/labels/question</loc>
+  <lastmod>2024-09-07T17:43:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sakshikasralikar/Morse-code-tone-generator/labels/wontfix</loc>
+  <lastmod>2024-09-07T17:43:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sakshikasralikar/Morse-code-tone-generator/milestones?state=open</loc>
+  <lastmod>2024-09-07T17:43:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sakshikasralikar/Morse-code-tone-generator/milestones?state=closed</loc>
+  <lastmod>2024-09-07T17:43:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sakshikasralikar/Morse-code-tone-generator/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2024-09-07T17:43:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sakshikasralikar/Morse-code-tone-generator/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2024-09-07T17:43:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sakshikasralikar/Morse-code-tone-generator/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2024-09-07T17:43:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sakshikasralikar/Morse-code-tone-generator/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2024-09-07T17:43:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sakshikasralikar/Morse-code-tone-generator/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2024-09-07T17:43:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sakshikasralikar/Morse-code-tone-generator/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2024-09-07T17:43:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sakshikasralikar/Morse-code-tone-generator/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2024-09-07T17:43:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sakshikasralikar/Morse-code-tone-generator/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2024-09-07T17:43:05+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/sakshikasralikar/Morse-code-tone-generator/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2024-09-07T17:43:05+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/sakshikasralikar/Morse-code-tone-generator/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2024-09-07T17:43:05+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/sakshikasralikar/Morse-code-tone-generator/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2024-09-07T17:43:05+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/sakshikasralikar/Morse-code-tone-generator/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2024-09-07T17:43:05+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/sakshikasralikar/Morse-code-tone-generator/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2024-09-07T17:43:05+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/sakshikasralikar/Morse-code-tone-generator/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2024-09-07T17:43:05+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/sakshikasralikar/Morse-code-tone-generator/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2024-09-07T17:43:05+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/sakshikasralikar/Morse-code-tone-generator/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2024-09-07T17:43:05+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+
+
+</urlset>
